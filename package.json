@@ -1,0 +1,32 @@
+{
+  "name": "react-native-keyboard-done-button",
+  "version": "1.0.0",
+  "description": "Keyboard done button component for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksimdegtyarev/react-native-keyboard-done-button.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "done",
+    "button",
+    "keyboard",
+    "done",
+    "keyboard"
+  ],
+  "author": "Maksim Degtyarev <brokkoli08@gmail.com> (https://maksimdegtyarev.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maksimdegtyarev/react-native-keyboard-done-button/issues"
+  },
+  "homepage": "https://github.com/maksimdegtyarev/react-native-keyboard-done-button#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react-native-dismiss-keyboard": "^1.0.0"
+  }
+}
